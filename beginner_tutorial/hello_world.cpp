@@ -27,3 +27,4 @@ int main(){
 	while_func(20);
 	return 0;
 }
+
